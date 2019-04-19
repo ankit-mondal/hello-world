@@ -1,2 +1,4 @@
 # hello-world
-intro
+intro to Github
+
+A new learning experience
